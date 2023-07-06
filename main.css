@@ -11,6 +11,7 @@ body {
 
 .menu {
     display: flex;
+    font-family: 'DotGothic16', sans-serif;
     list-style: none;
     flex-wrap: wrap;
     padding-top: 8px;
@@ -94,3 +95,4 @@ a:hover {
         flex-basis: 100%;
     }
 }
+
